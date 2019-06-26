@@ -1,2 +1,2 @@
-# Deep Learning read me
+# Deep Learning
 Deep Exploration of Deep Learning
